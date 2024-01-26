@@ -1,0 +1,3 @@
+MyPost url = 'https://ap-south-1.aws.data.mongodb-api.com/app/satya123-diawr/endpoint/postdata'
+
+step1: open mongodb and create a newapp after this create a new post end-point and function to set schema
